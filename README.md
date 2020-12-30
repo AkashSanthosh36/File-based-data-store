@@ -14,7 +14,7 @@ Steps to run the project:
         
         git clone https://github.com/AkashSanthosh36/File-based-data-store.git
   
- => Open command line in the respective folder
+ => Open command line in the program folder
   
  => Type 
  
