@@ -11,11 +11,14 @@ Built With:
 Steps to run the project:
 
 =>clone the repository
-        git clone
+        
+        git clone https://github.com/AkashSanthosh36/File-based-data-store.git
   
-        =>open command line in the program folder
+ =>open command line in the program folder
   
-        =>type 'python main.py'
+ =>type 
+ 
+        'python main.py'
 
 
 Special characteristics of my project:
