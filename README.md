@@ -16,7 +16,7 @@ Steps to run the project:
   
  => Open command line in the program folder
   
- => Type 
+ => Enter 
  
         python main.py
 
