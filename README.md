@@ -2,23 +2,23 @@
 
 About the project:
 
-        A file based key-value data store which supports Create, Read, Delete operations.
+        A file based key-value data store which supports Create, Read and Delete operations.
 
 Built With:
 
-        Python
+        Python 3
 
 Steps to run the project:
 
-=>clone the repository
+=> Clone the repository
         
         git clone https://github.com/AkashSanthosh36/File-based-data-store.git
   
- =>open command line in the program folder
+ => Open command line in the respective folder
   
- =>type 
+ => Type 
  
-        'python main.py'
+        python main.py
 
 
 Special characteristics of my project:
