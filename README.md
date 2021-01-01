@@ -46,13 +46,11 @@ Files Used:
         
         =>testing.py       =>   unit testing
         
-        =>user.log         =>    It is used to log the file status (free or occupied).  It is used to make sure that only one client uses the datastore at any given time
+        =>user.log         =>    It is used to log the file status (free or occupied). 
         
 Special characteristics of my project:
 
         =>Gui has been made where one can select the folder to store the file
-        
-        =>Only one client can process at a time
   
         =>No third party libraries is used
   
